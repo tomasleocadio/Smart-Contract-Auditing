@@ -1,6 +1,6 @@
-## The Audit Process
+# The Audit Process
 
-# 3 phases
+## 3 phases
 
 ### 1. Initial Review
     a. Scoping 
