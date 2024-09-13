@@ -29,3 +29,9 @@
 
 3. Insufficient Function Access Control
 
+-----------------------------------------
+
+## CLOC
+
+Counts how many files, lines, etc.. are in a project
+
