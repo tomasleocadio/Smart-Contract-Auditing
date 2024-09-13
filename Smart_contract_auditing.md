@@ -17,3 +17,15 @@
 
 ### 3. Mitigation Review
     a. [Report #1]
+
+
+-----------------------------------------
+
+## Biggest top 3 Attacks in DEFI
+
+1. Price Oracle Manipulation
+
+2. Reward Manipulation
+
+3. Insufficient Function Access Control
+
